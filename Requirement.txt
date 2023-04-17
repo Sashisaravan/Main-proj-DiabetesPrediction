@@ -5,3 +5,9 @@ pandas==0.23.4
 numpy==1.17.3
 scikit_learn==0.21.3
 streamlit==0.64.0
+GradientBoostingClassifier
+KNeighborsClassifier
+MLPClassifier
+DecisionTreeClassifier
+xgboost
+matplotlib
