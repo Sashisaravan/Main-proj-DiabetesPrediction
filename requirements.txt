@@ -1,0 +1,10 @@
+seaborn==0.9.0
+Pillow==8.0.1
+matplotlib==3.6.3
+pandas==0.23.4
+numpy==1.20.3
+scikit_learn==1.2.2
+streamlit==1.21.0
+sklearn==0.0.post4
+xgboost==1.7.5
+scikit-plot==0.3.7
